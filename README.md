@@ -39,20 +39,4 @@ int main() {
     printf("Hello, World!");
     return 0;
 }
-
----
-
-## 🌐 JavaScript Language
-
-**Type:** High-level, Interpreted  
-**Used for:** Web development (Frontend & Backend), Server-side apps  
-
-### 🔑 Key Features
-- Runs directly in web browsers  
-- Event-driven and asynchronous  
-- Works seamlessly with HTML and CSS  
-- Supports functional and object-oriented programming  
-
-### 📌 Example
-```javascript
-console.log("Hello, World!");
+```
