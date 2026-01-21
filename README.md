@@ -42,61 +42,17 @@ int main() {
 
 ---
 
-## 🧠 C++ Language
-
-**Type:** Object-Oriented & Procedural, Compiled  
-**Used for:** Game development, System software, High-performance applications  
-
-### 🔑 Key Features
-- Supports Object-Oriented Programming (Classes, Inheritance, Polymorphism)  
-- Very fast execution speed  
-- Rich Standard Template Library (STL)  
-- Supports both low-level and high-level programming  
-
-### 📌 Example
-```cpp
-#include <iostream>
-using namespace std;
-
-int main() {
-    cout << "Hello, World!";
-    return 0;
-}
-
----
-
-## ☕ Java Language
-
-**Type:** Object-Oriented, Compiled (JVM-based)
-**Used for:** Enterprise applications, Android development
-
-### 🔑 Key Features
-- Platform independent (Write Once, Run Anywhere)
-- Automatic memory management
-- Strong security
-
-### 📌 Example
-```java
-class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
-    }
-}
-
----
-
-## 🐍 Python Language
+## 🌐 JavaScript Language
 
 **Type:** High-level, Interpreted  
-**Used for:** Data Science, AI/ML, Automation, Web development  
+**Used for:** Web development (Frontend & Backend), Server-side apps  
 
 ### 🔑 Key Features
-- Simple and easy-to-read syntax  
-- Large standard library and third-party modules  
-- Dynamically typed language  
-- Supports multiple programming paradigms (Procedural, OOP, Functional)  
+- Runs directly in web browsers  
+- Event-driven and asynchronous  
+- Works seamlessly with HTML and CSS  
+- Supports functional and object-oriented programming  
 
 ### 📌 Example
-```python
-print("Hello, World!")
-
+```javascript
+console.log("Hello, World!");
