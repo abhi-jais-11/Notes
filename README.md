@@ -39,7 +39,9 @@ int main() {
     printf("Hello, World!");
     return 0;
 }
+
 ---
+
 ## 🧠 C++ Language
 
 **Type:** Object-Oriented & Procedural, Compiled  
@@ -62,6 +64,7 @@ int main() {
 }
 
 ---
+
 ## ☕ Java Language
 
 **Type:** Object-Oriented, Compiled (JVM-based)
@@ -79,7 +82,9 @@ class Main {
         System.out.println("Hello, World!");
     }
 }
+
 ---
+
 ## 🐍 Python Language
 
 **Type:** High-level, Interpreted  
